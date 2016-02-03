@@ -24,11 +24,11 @@ Apple Russian — закрытое сообщество, обьединённо�
 
 ## Мы в web
 
-@paulelms [http://paul.elms.pro](http://paul.elms.pro)
-@previewthenew [http://pavel.miroshnichen.co](http://pavel.miroshnichen.co)
-@ctrld [http://ctrld.me](http://ctrld.me)
-@drey-scherfeld [http://drey-scherfeld.livejournal.com](http://drey-scherfeld.livejournal.com)
-@fat0troll [http://blog.toofat.ru](http://blog.toofat.ru)
-@fluder [http://fluder.co](http://fluder.co)
-@juev [http://www.juev.org](http://www.juev.org)
-@vlad.gorohovsky [http://macosworld.ru](http://macosworld.ru)
+@paulelms [http://paul.elms.pro](http://paul.elms.pro)  
+@previewthenew [http://pavel.miroshnichen.co](http://pavel.miroshnichen.co)  
+@ctrld [http://ctrld.me](http://ctrld.me)  
+@drey-scherfeld [http://drey-scherfeld.livejournal.com](http://drey-scherfeld.livejournal.com)  
+@fat0troll [http://blog.toofat.ru](http://blog.toofat.ru)  
+@fluder [http://fluder.co](http://fluder.co)  
+@juev [http://www.juev.org](http://www.juev.org)  
+@vlad.gorohovsky [http://macosworld.ru](http://macosworld.ru)  
